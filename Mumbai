@@ -1,0 +1,200 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #111;
+  color: white;
+}
+
+header {
+  background: #222;
+  padding: 20px;
+  text-align: center;
+}
+
+nav {
+  background: #333;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #00adb5;
+}
+
+section {
+  padding: 40px;
+}
+
+.card {
+  background: #1c1c1c;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 10px;
+}
+
+footer {
+  background: #222;
+  text-align: center;
+  padding: 15px;
+}<!DOCTYPE html>
+<html>
+<head>
+  <title>Home - Mumbai By Devansh</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Mumbai Through My Eyes</h1>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="culture.html">Culture</a>
+  <a href="hobbies.html">Hobbies</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<section>
+  <div class="card">
+    <h2>Welcome</h2>
+    <p>This website shows my connection with Mumbai—its culture, energy, and lifestyle.</p>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 Devansh</p>
+</footer>
+
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+  <title>About Me</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header><h1>About Me</h1></header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="culture.html">Culture</a>
+  <a href="hobbies.html">Hobbies</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<section>
+  <div class="card">
+    <p>Hi, I'm Devansh. I enjoy gaming and exploring new ideas. Living near Mumbai has shaped my mindset and interests.</p>
+  </div>
+</section>
+
+<footer><p>© 2026 Devansh</p></footer>
+
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+  <title>Mumbai Culture</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header><h1>Mumbai Culture</h1></header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="culture.html">Culture</a>
+  <a href="hobbies.html">Hobbies</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<section>
+
+<div class="card">
+  <h3>Food</h3>
+  <p>Street food like vada pav and pav bhaji represents Mumbai’s fast lifestyle.</p>
+</div>
+
+<div class="card">
+  <h3>Festivals</h3>
+  <p>Ganesh Chaturthi brings people together with energy and devotion.</p>
+</div>
+
+<div class="card">
+  <h3>Lifestyle</h3>
+  <p>Mumbai is always moving—people chasing dreams every day.</p>
+</div>
+
+</section>
+
+<footer><p>© 2026 Devansh</p></footer>
+
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+  <title>My Hobbies</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header><h1>My Hobbies</h1></header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="culture.html">Culture</a>
+  <a href="hobbies.html">Hobbies</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<section>
+  <div class="card">
+    <p>I love playing video games. Just like Mumbai, gaming is fast, competitive, and exciting.</p>
+  </div>
+</section>
+
+<footer><p>© 2026 Devansh</p></footer>
+
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+  <title>Contact</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header><h1>Contact Me</h1></header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="culture.html">Culture</a>
+  <a href="hobbies.html">Hobbies</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<section>
+  <div class="card">
+    <p>Email: devanshdalvi05@gmail.com</p>
+    <p>Location: Near Mumbai, India</p>
+  </div>
+</section>
+
+<footer><p>© 2026 Devansh</p></footer>
+
+</body>
+</html>
